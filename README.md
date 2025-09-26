@@ -16,7 +16,7 @@ I’m an aspiring developer exploring the worlds of data science and machine lea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="35" style="margin: 0 7px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="35" style="margin: 0 7px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="35" style="margin: 0 7px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/postgresql/postgresql-original.svg" width="35" style="margin: 0 7px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="35" style="margin: 0 7px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35" style="margin: 0 7px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="35" style="margin: 0 7px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="35" style="margin: 0 7px;" />
