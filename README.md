@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi, I’m Johan<br><br>I’m currently developing my skills in the Data Science field. Exploring data analysis, machine learning, and building useful tools from data.<br>
 
 
