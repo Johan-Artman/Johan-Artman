@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&color=A6D8F0&center=true&vCenter=true&multiline=true&width=870&height=70&lines=What+you+don't+know;you+can+learn.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&color=A6D8F0&center=true&vCenter=true&multiline=true&width=870&height=70&lines=What+you+don't+know,;you+can+learn.)](https://git.io/typing-svg)
 
 # ☁️ About Me  
 👋 Hi, I’m Johan  
