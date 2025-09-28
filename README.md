@@ -26,3 +26,9 @@ I’m an aspiring developer exploring the worlds of data science and machine lea
 </p>
 
 #
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Johan-Artman&theme=ocean-dark&card_width=595&hide_total_contributions=true" alt="GitHub Streak" />
+  </a>
+</p>
