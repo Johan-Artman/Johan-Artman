@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&color=A6D8F0&center=true&vCenter=true&multiline=true&width=870&height=70&lines=What+you+don't+know,;you+can+learn.)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&color=A6D8F0&center=true&vCenter=true&multiline=true&width=870&height=70&lines=What+you+don't+know,;you+can+learn." alt="Typing SVG" />
+  </a>
+</p>
+
 
 # ☁️ About Me  
 👋 Hi, I’m Johan  
@@ -29,6 +34,8 @@ I’m an aspiring developer exploring the worlds of data science and machine lea
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Johan-Artman&theme=ocean-dark&card_width=595&hide_total_contributions=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Johan-Artman&theme=transparent&stroke=a6d8f0&ring=a6d8f0&fire=a6d8f0&currStreakNum=a6d8f0&sideNums=a6d8f0&currStreakLabel=a6d8f0&sideLabels=a6d8f0&dates=a6d8f0&card_width=595&hide_total_contributions=true" alt="GitHub Streak" />
   </a>
 </p>
+
+
