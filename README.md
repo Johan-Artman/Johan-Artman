@@ -13,7 +13,7 @@ I’m an aspiring developer exploring the worlds of data science and machine lea
 
 ---
 
-# 🖥️ Tech Stack 
+# 🧰 Tech Stack
 <p align="center">
   <img width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
