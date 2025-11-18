@@ -7,9 +7,9 @@
 
 #
 <p align="Left">
-  <code>Digital Fortune Teller (Aspiring Developer/Data Enthusiast)</code>
+  <code>Digital Fortune Teller (Developer/Data Enthusiast)</code>
 </p> 
-I’m an aspiring developer exploring the worlds of data science and machine learning. I’m on a journey to reveal hidden patterns, forecast trends, and tell the stories hidden within the data. I aim to transform raw information into meaningful insights and build tools that help people see the future more clearly.
+I’m a computer information systems graduate exploring the worlds of data science and machine learning. I’m on a journey to reveal hidden patterns, forecast trends, and tell the stories hidden within the data. I aim to transform raw information into meaningful insights and build tools that help people see the future more clearly.
 
 ---
 
